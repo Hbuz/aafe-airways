@@ -1,0 +1,18 @@
+fareengine:
+  distance-method: accurate
+  service-charges:
+    departure:
+      "SIN,CFU,AMM,LIR,BOD,GDN,AMS,BRE": 50.00
+  served-stations:
+    - AMS
+    - BCN
+    - CDG
+    - HAM
+    - LIM
+    - LAX
+  forbidden-starts:
+  - BHD
+  - LCA
+  forbidden-ends:
+  - CAG
+  - LYS

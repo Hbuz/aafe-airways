@@ -1,11 +1,8 @@
 openapi: 3.0.1
 info:
-  title: KLM Airports API
+  title: AAFE Airports API
   description: Search airports by code or by name
   version: 1.0.0
-  contact:
-    name: KLM
-    url: https://www.klm.com
 servers:
   - url: http://localhost:3000
 tags:
